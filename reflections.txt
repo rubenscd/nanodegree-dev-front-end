@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Quais novas habilidades você aprendeu?
+Apreendi novas propriedades as tags que já usava, ex. download na tag ancora.
+
+O que foi fácil?
+Começo suave, compreender a semantica das tags elas se auto traduzem o que realmente significam.
+
+O que foi difícil?
+Pesquisar e replicar, principalmente se não esta familiarizado ao conteúdo.
+
+Como você usou as estratégias de solução de problemas no primeiro projeto para superar os desafios até agora?
+A solução deu além do mackup (em pdf) repassou o link, ele foi bom para pesquisar as novas tags propostas e até novas.
